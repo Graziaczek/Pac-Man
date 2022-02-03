@@ -1,2 +1,2 @@
 # Pac-Man
-gra w moją wersję PacMana
+Projekt realizujący moją wersję PacMana
